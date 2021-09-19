@@ -13,9 +13,9 @@ editing()
 print("editing done !")
 
 url = "https://www.instagram.com/"
-username = "funny.memes.py"
-password = "cherif2005"
-video_path = r"C:\Users\LENOVO\PycharmProjects\tiktok-scraper\final_clip.mp4"
+username = ""
+password = ""
+video_path = "tiktok-scraper/final_clip.mp4"
 
 # options = webdriver.ChromeOptions()
 # options.headless = True
